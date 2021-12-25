@@ -1,0 +1,7 @@
+{
+    "musicRoot": "C:/Work/music",
+    "projectRoot": "C:/Work/dev/nodedev/webc-express-ts-template",
+    "webcomponent" : "music-and-lights",
+    "bundle" : "/client/bundle.js",
+    "loglevel": "INFO"
+}
